@@ -88,52 +88,84 @@
   "portfolio": {
     "projects": [
       {
+        "title": "The Creative Agency",
+        "categories": "The Creative Agency official website",
+        "image":"tca.png",
+        "url": "http://thecreativetca.com",
+        "cat": ["All", "Agency", "Portfolio", "Design"]
+      },
+      {
         "title": "Rayckan Herbal Medicine",
         "categories": "A website for rayckan herbal medicine",
         "image":"rayckan.png",
-        "url": "https://polar-brushlands-57852.herokuapp.com/"
-      },
-      {
-        "title": "Kicks",
-        "categories": "An online store for the kicks merchendise",
-        "image":"kicks.png",
-        "url": "https://polar-brushlands-57852.herokuapp.com/"
+        "url": "http://www.rayckanherbalhealthcare.tk",
+        "cat": ["All", "Portfolio", "Design", "Ecommerce"]
+
       },
       {
         "title": "BlogKeep",
         "categories": "A Nodejs web Application that allows users save interesting blogs from the web with likes and comments features",
         "image":"blogkeep.png",
-        "url": "https://polar-brushlands-57852.herokuapp.com/"
+        "url": "http://www.blogskeep.ml/",
+        "cat": ["All", "Education", "Portfolio"]
+      },
+      {
+        "title": "LaFondal Hotel",
+        "categories": "A responsive design of the La Fondal hotel",
+        "image":"lafondal.png",
+        "url": "https://www.behance.net/gallery/119419267/La-Fondal-Website-Design/modules/679826221",
+        "cat": ["All", "Hospitality", "Agency", "Portfolio", "Design"]
+      },
+      {
+        "title": "LiteBank",
+        "categories": "Make transactions with the lite app with ease. Fund your wallet and transfer funds",
+        "image":"litebank.png",
+        "url": "https://polar-brushlands-57852.herokuapp.com/",
+        "cat": ["All", "Education", "Hospitality", "Business"]
+      },
+      {
+        "title": "Kicks",
+        "categories": "An online store for the kicks merchendise",
+        "image":"kicks.png",
+        "url": "https://polar-brushlands-57852.herokuapp.com/",
+        "cat": ["All", "Hospitality", "Business", "Ecommerce"]
       },
       {
         "title": "Web Stickies",
         "categories": "A Simple  JavaScript application that allows you to quickly stick important note to your web browsers as a form of a remainder.",
         "image":"webstickies.png",
-        "url": "https://damigreen.github.io/web-stickes/"
+        "url": "https://damigreen.github.io/web-stickes/",
+        "cat": ["All", "Education"]
       },
       {
         "title": "PhoneBook",
         "categories": "A web application that utilizes the MERN stack and allows users easily manage their phonebook",
         "image":"phonebook.png",
-        "url": "https://glacial-bayou-76915.herokuapp.com/"
+        "url": "https://glacial-bayou-76915.herokuapp.com/",
+        "cat": ["All", "Portfolio"]
+
       },
       {
         "title": "Battleship",
         "categories": "A JavaScript game allow a user play against battleships generated on grid locations and provides users with a trigger for targeting battleships locations on the grid",
         "image":"battleship.jpg",
-        "url": "https://damigreen.github.io/battleship/"
+        "url": "https://damigreen.github.io/battleship/",
+        "cat": ["All", "Education", "Portfolio"]
+
       },
       {
         "title": "Country-Finder",
         "categories": "A React front-end portal that helps users acces information about a particular country including country flag, population, weather conditions etc .",
         "image":"countrystack.png",
-        "url": "https://damigreen.github.io/country-stack/"
+        "url": "https://damigreen.github.io/country-stack/",
+        "cat": ["All", "Education", "Hospitality"]
       },
       {
         "title": "Project-Minimek",
         "categories": "This is a miniature version of the MekHQ Battletech campaign force manager tool.",
         "image":"project-minimek.png",
-        "url": "http://damigreen.github.io/project-minimek"
+        "url": "http://damigreen.github.io/project-minimek",
+        "cat": ["All", "Portfolio"]
       }
     ]
   },
