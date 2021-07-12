@@ -92,57 +92,72 @@
         "categories": "The Creative Agency official website",
         "image":"tca.png",
         "url": "http://thecreativetca.com",
-        "cat": ["All", "Agency", "Portfolio", "Design"]
+        "cat": ["All", "Agency", "Portfolio", "Design"],
+        "display": true,
+        "link": "the-creative-agency"
       },
       {
-        "title": "Rayckan Herbal Medicine",
+        "title": "Rayckan Herbal Healthcare",
         "categories": "A website for rayckan herbal medicine",
         "image":"rayckan.png",
         "url": "http://www.rayckanherbalhealthcare.tk",
-        "cat": ["All", "Portfolio", "Design", "Ecommerce"]
-
+        "cat": ["All", "Portfolio", "Design", "Ecommerce"],
+        "display": true,
+        "link": "rayckan-herbal-healthcare"
       },
       {
         "title": "BlogKeep",
         "categories": "A Nodejs web Application that allows users save interesting blogs from the web with likes and comments features",
         "image":"blogkeep.png",
         "url": "http://www.blogskeep.ml/",
-        "cat": ["All", "Education", "Portfolio"]
+        "cat": ["All", "Education", "Portfolio"],
+        "display": true,
+        "link": "blog-keep"
       },
       {
         "title": "LaFondal Hotel",
         "categories": "A responsive design of the La Fondal hotel",
         "image":"lafondal.png",
         "url": "https://www.behance.net/gallery/119419267/La-Fondal-Website-Design/modules/679826221",
-        "cat": ["All", "Hospitality", "Agency", "Portfolio", "Design"]
+        "cat": ["All", "Hospitality", "Agency", "Portfolio", "Design"],
+        "display": true,
+        "link": "the-creative-agency"
       },
       {
         "title": "LiteBank",
         "categories": "Make transactions with the lite app with ease. Fund your wallet and transfer funds",
         "image":"litebank.png",
         "url": "https://polar-brushlands-57852.herokuapp.com/",
-        "cat": ["All", "Education", "Hospitality", "Business"]
+        "cat": ["All", "Education", "Hospitality", "Business"],
+        "display": true,
+        "link": "litebank"
       },
       {
         "title": "Kicks",
         "categories": "An online store for the kicks merchendise",
         "image":"kicks.png",
         "url": "https://polar-brushlands-57852.herokuapp.com/",
-        "cat": ["All", "Hospitality", "Business", "Ecommerce"]
+        "cat": ["All", "Hospitality", "Business", "Ecommerce"],
+        "display": false,
+        "link": "kicks"
       },
       {
         "title": "Web Stickies",
         "categories": "A Simple  JavaScript application that allows you to quickly stick important note to your web browsers as a form of a remainder.",
         "image":"webstickies.png",
         "url": "https://damigreen.github.io/web-stickes/",
-        "cat": ["All", "Education"]
+        "cat": ["All", "Education"],
+        "display": false,
+        "link": "web-stickes"
       },
       {
         "title": "PhoneBook",
         "categories": "A web application that utilizes the MERN stack and allows users easily manage their phonebook",
         "image":"phonebook.png",
         "url": "https://glacial-bayou-76915.herokuapp.com/",
-        "cat": ["All", "Portfolio"]
+        "cat": ["All", "Portfolio"],
+        "display": false,
+        "link": "phonebook"
 
       },
       {
@@ -150,7 +165,9 @@
         "categories": "A JavaScript game allow a user play against battleships generated on grid locations and provides users with a trigger for targeting battleships locations on the grid",
         "image":"battleship.jpg",
         "url": "https://damigreen.github.io/battleship/",
-        "cat": ["All", "Education", "Portfolio"]
+        "cat": ["All", "Education", "Portfolio"],
+        "display": false,
+        "link": "battleship"
 
       },
       {
@@ -158,14 +175,18 @@
         "categories": "A React front-end portal that helps users acces information about a particular country including country flag, population, weather conditions etc .",
         "image":"countrystack.png",
         "url": "https://damigreen.github.io/country-stack/",
-        "cat": ["All", "Education", "Hospitality"]
+        "cat": ["All", "Education", "Hospitality"],
+        "display": false,
+        "link": "country-finder"
       },
       {
         "title": "Project-Minimek",
         "categories": "This is a miniature version of the MekHQ Battletech campaign force manager tool.",
         "image":"project-minimek.png",
         "url": "http://damigreen.github.io/project-minimek",
-        "cat": ["All", "Portfolio"]
+        "cat": ["All", "Portfolio"],
+        "display": false,
+        "link": "project-minimek"
       }
     ]
   },
